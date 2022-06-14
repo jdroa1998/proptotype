@@ -21,7 +21,6 @@ func init() {
 }
 
 func main() {
-	// Echo instance
 	router := echo.New()
 
 	// Middleware
